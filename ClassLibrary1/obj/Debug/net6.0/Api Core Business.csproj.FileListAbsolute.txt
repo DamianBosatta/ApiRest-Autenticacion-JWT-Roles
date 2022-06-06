@@ -1,0 +1,14 @@
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\bin\Debug\net6.0\Api Core Business.deps.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\bin\Debug\net6.0\Api Core Business.runtimeconfig.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\bin\Debug\net6.0\Api Core Business.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\bin\Debug\net6.0\Api Core Business.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\refint\Api Core Business.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\Api Core Business.genruntimeconfig.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\ClassLibrary1\obj\Debug\net6.0\ref\Api Core Business.dll

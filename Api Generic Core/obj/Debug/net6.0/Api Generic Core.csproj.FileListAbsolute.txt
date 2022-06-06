@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\bin\Debug\net6.0\Api Generic Core.deps.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\bin\Debug\net6.0\Api Generic Core.runtimeconfig.json
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\bin\Debug\net6.0\Api Generic Core.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\bin\Debug\net6.0\Api Generic Core.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\bin\Debug\net6.0\Api Core Business.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\bin\Debug\net6.0\Api Core Business.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.csproj.CopyComplete
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\refint\Api Generic Core.dll
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.pdb
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\Api Generic Core.genruntimeconfig.cache
+C:\Users\Win10\Desktop\Programs c#\Bootcamp dia 16\WebApi_Concecionaria\Api Generic Core\obj\Debug\net6.0\ref\Api Generic Core.dll
